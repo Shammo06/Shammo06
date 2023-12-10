@@ -1,4 +1,4 @@
- <img align="center" src="https://raw.githubusercontent.com/Shammo06/Shammo06/main/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner.png"  alt="" height="200" /> 
+ <img align="center" src="https://raw.githubusercontent.com/Shammo06/Shammo06/main/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner.png"  alt=""  /> 
 
 
 ### Hi there 👋
