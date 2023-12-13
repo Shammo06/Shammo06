@@ -52,5 +52,5 @@ Here are some ideas to get you started:
 <h3 align="left">More Stats:</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shammo06&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shammo06&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shammo06&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shammo06&theme=apprentice)https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shammo06&theme=apprentice" height="200" alt="languages graph"  />
 </div>
