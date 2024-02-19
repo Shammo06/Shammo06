@@ -7,9 +7,9 @@ I'm MD Mahfuzzur Rahman Shammo a passionate MERN Stack developer from Bangladesh
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on 4th year cse student
-- 🌱 I’m currently learning mysql
+- 🌱 I’m currently learning Redux
 - 👯 I’m looking to collaborate on mern project
-- 💬 Ask me about react, javascript, html, python
+- 💬 Ask me about react, javascript, html, python, mySQL, TypeScript, PHP
 
 
 <h3 align="left">Connect with me:</h3>
